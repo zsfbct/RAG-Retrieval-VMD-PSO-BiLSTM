@@ -56,3 +56,12 @@ The workflow is divided into four main parts:
     ```
 
 ## 📂 Project Structure
+VMD-PSO-BiLSTM/ 
+    ├── .gitignore # Tells Git to ignore data and cache files 
+    ├── README.md # You are here 
+    ├── requirements.txt # All Python dependencies 
+    ├── main.py # The main script to run the entire pipeline 
+    ├── model.py # Defines the BiLSTM model architecture 
+    ├── optimizer.py # Contains the PSO cost function 
+    ├── plotting.py # All helper functions for plotting 
+    └── utils.py # Helper function for calculating metrics
