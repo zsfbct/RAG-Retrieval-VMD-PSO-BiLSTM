@@ -1,0 +1,9 @@
+vmdpy
+pyswarms
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+seaborn
+openpyxl
