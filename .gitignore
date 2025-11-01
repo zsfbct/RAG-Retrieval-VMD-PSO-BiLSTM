@@ -1,0 +1,14 @@
+# Data
+*.xlsx
+*.csv
+*.parquet
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Colab
+.ipynb_checkpoints/
+
+# Environment
+.env
